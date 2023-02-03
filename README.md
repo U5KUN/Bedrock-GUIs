@@ -6,7 +6,7 @@
 - [x] Create Github repository
 - [ ] Fabric Mod Release
 - [ ] Forge Mod Release
-- [ ] Client Release
+- [ ] Client(minecraft/versions file) Release
 - [ ] Support TunnelMC
 
 # Discord
