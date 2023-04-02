@@ -7,7 +7,6 @@
 - [ ] Fabric Mod Release
 - [ ] Forge Mod Release
 - [ ] Client(minecraft/versions file) Release
-- [ ] Support TunnelMC
 
 # Discord
 I need more helper.  
